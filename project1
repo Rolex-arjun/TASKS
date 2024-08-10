@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us WEBPLUSACADEMY</title>
+    <style>
+        p {
+            font-family: Arial;
+            line-height: 1.6;
+        }
+        .center {
+            text-align: center;
+        }
+        #main-title {
+            font-size: 32px;
+            color: darkblue;
+            margin-bottom: 20px;
+        }
+        h2 {
+            font-size: 24px;
+            color: red;
+            margin-top: 20px;
+        }
+        .team-list {
+            list-style-type: none;
+            padding: 0;
+        }
+        .team-list li {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="main-title" class="center">About Our WebplusAcademy</h1>
+    <h2>Startup History</h2>
+    <p>Our Startup was founded in <strong>2024</strong> with the mission to innovate and lead in the tech industry. Over the days, we have expanded our services and reached new heights, making a mark in various domains.</p>
+    <h2>Our Mission</h2>
+    <p><em>To educate our  individuals through web development technology solutions that drive growth and success.</em></p>
+    <h2>Our Team</h2>
+    <ul class="team-list">
+        <li>Saran velmurugan - CEO</li>
+        <li>Teja - CTO</li>
+    </ul>
+</body>
+</html>
