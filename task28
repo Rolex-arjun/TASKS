@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ID Selector Example</title>
+    <style>
+        /* ID selector to change the font size of the element with the ID "main-title" */
+        #main-title {
+            font-size: 36px;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="main-title">Welcome to My Website</h1>
+    
+    <p>This is a sample paragraph.</p>
+</body>
+</html>
